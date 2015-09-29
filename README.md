@@ -37,11 +37,11 @@ For other configurations check [mongoose-attachments](https://github.com/firebas
 var storage = {}
 storage.providerName = 'aws'
 storage.options = {
-  "region": <region>,
-  "key": <key>,
-  "secret": <secret>,
-  "bucket": "<bucket>",
-  "acl": "public-read"
+  'region': '<region>',
+  'key'   : '<key>',
+  'secret': '<secret>',
+  'bucket': '<bucket>',
+  'acl'   : 'public-read'
 }
 
 require('mongoose-attachments-aws')
