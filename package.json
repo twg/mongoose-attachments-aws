@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-attachments-aws",
+  "version": "0.0.1",
+  "description": "AWS S3 Storage Provider for mongoose-attachments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twg/mongoose-attachments-aws.git"
+  },
+  "keywords": [
+    "mongoose",
+    "attachments",
+    "s3",
+    "aws"
+  ],
+  "author": "TWG <info@twg.ca> (http://www.theworkinggroup.ca)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/twg/mongoose-attachments-aws/issues"
+  },
+  "homepage": "https://github.com/twg/mongoose-attachments-aws#readme",
+  "dependencies": {
+    "mongoose-attachments": "^0.1.0"
+  }
+}
