@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "AWS S3 Storage Provider for mongoose-attachments",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/twg/mongoose-attachments-aws.git"

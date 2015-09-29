@@ -1,1 +1,1 @@
-module.exports = require('./lib/aws-provider');
+module.exports = require('./lib/aws-provider')
