@@ -1,6 +1,6 @@
 {
   "name": "mongoose-attachments-aws",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "AWS S3 Storage Provider for mongoose-attachments",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,8 @@
   "homepage": "https://github.com/twg/mongoose-attachments-aws#readme",
   "dependencies": {
     "aws-sdk": "^2.2.4",
-    "mongoose-attachments": "^0.1.0"
+    "file-type": "3.3.1",
+    "mongoose-attachments": "^0.1.0",
+    "read-chunk": "1.0.1"
   }
 }
