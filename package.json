@@ -1,6 +1,6 @@
 {
   "name": "mongoose-attachments-aws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS S3 Storage Provider for mongoose-attachments",
   "main": "index.js",
   "repository": {
